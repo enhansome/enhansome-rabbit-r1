@@ -58,7 +58,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 * [Puppy](https://github.com/Antonoko/playdate-puppy-llm) ⭐ 57 | 🐛 2 | 🌐 Lua | 📅 2024-05-12 - An LLM project using ChatGPT on the PlayDate using the r1's aesthetic.
 * [KibbeWater/Rabbit](https://github.com/KibbeWater/Rabbit) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2024-08-28 - iOS App meant to emulate the Rabbit R1 software experience.
-* [rabbit esp32](https://github.com/fbiego/rabbit-esp32) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2024-05-04 - A demo UI project for the WT32 SC01 Plus board inspired by Rabbit R1.
+* [rabbit esp32](https://github.com/fbiego/rabbit-esp32) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2024-05-04 - A demo UI project for the WT32 SC01 Plus board inspired by Rabbit R1.
 * [Rabbitt](https://github.com/GikitSRC/rabbitt) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2024-05-29 - A Small Action Model; named after Rabbit's Large Action Model that can take actions on websites on your behalf.
 * [AgentOS](https://github.com/10cl/agentos) ⭐ 14 | 🐛 0 | 📅 2024-05-05 - An attempt to replicate r1's features natively on Android without the need for a remote backend.
 * [RabbitKit](https://github.com/KibbeWater/RabbitKit) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2024-08-28 - Communication Library for KibbeWater/Rabbit.
