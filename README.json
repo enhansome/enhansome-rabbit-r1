@@ -1,0 +1,285 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rabbit R1 Launcher",
+          "description": "An effort to adapt the Rabbit R1 Launcher for use across any Android device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smali",
+            "last_commit": "2024-07-18T02:12:12Z",
+            "owner": "Pinball3D",
+            "repo": "Rabbit-R1",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r1 apk patcher",
+          "description": "Tool to patch a clean rabbit apk into a working one.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-28T15:30:52Z",
+            "owner": "meowstercatel",
+            "repo": "r1-apk-patcher",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rabbitude-backend",
+          "description": "A Go-based backend meant to reimplement the r1's backend and API endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-04T14:34:39Z",
+            "owner": "KibbeWater",
+            "repo": "rabbitude-backend",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rabbitserver-go",
+          "description": "A simple WebSocket wrapper for the RabbitHole API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-30T19:15:31Z",
+            "owner": "KibbeWater",
+            "repo": "rabbitserver-go",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rabbitude-hole",
+          "description": "Rabbithole replacement for the rabbitude launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-18T15:59:33Z",
+            "owner": "KibbeWater",
+            "repo": "rabbitude-hole",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Servers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LAMatHome",
+          "description": "A self-hosted integration suite that reads notes from the Rabbithole to add functionality to the r1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-25T14:39:12Z",
+            "owner": "LAMatHome",
+            "repo": "LAMatHome",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rabbit R1 IMEI Generator",
+          "description": "a JS-based tool designed to generate and validate IMEI numbers for Rabbit R1 devices (Live Demo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-24T17:17:23Z",
+            "owner": "annabelsandford",
+            "repo": "rabbit-r1-imeigen",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rabbitt Integration",
+          "description": "Use your r1's note saving feature to control things like Discord and the Rabbitt LAM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-26T00:41:03Z",
+            "owner": "GikitSRC",
+            "repo": "rabbitt_integration",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rabbithole-api",
+          "description": "An API client for rabbit r1's rabbithole.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-28T20:19:01Z",
+            "owner": "meowstercatel",
+            "repo": "rabbithole-api",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Integrations & Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Puppy",
+          "description": "An LLM project using ChatGPT on the PlayDate using the r1's aesthetic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-12T04:04:06Z",
+            "owner": "Antonoko",
+            "repo": "playdate-puppy-llm",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KibbeWater/Rabbit",
+          "description": "iOS App meant to emulate the Rabbit R1 software experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-08-28T20:06:09Z",
+            "owner": "KibbeWater",
+            "repo": "Rabbit",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rabbit esp32",
+          "description": "A demo UI project for the WT32 SC01 Plus board inspired by Rabbit R1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-04T13:22:34Z",
+            "owner": "fbiego",
+            "repo": "rabbit-esp32",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rabbitt",
+          "description": "A Small Action Model; named after Rabbit's Large Action Model that can take actions on websites on your behalf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-29T03:09:06Z",
+            "owner": "ChainedTears",
+            "repo": "rabbitt",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentOS",
+          "description": "An attempt to replicate r1's features natively on Android without the need for a remote backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-05T13:29:31Z",
+            "owner": "10cl",
+            "repo": "agentos",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RabbitKit",
+          "description": "Communication Library for KibbeWater/Rabbit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-08-28T14:21:22Z",
+            "owner": "KibbeWater",
+            "repo": "RabbitKit",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "R1-Inspired Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GSI tree",
+          "description": "A view of the Rabbit r1's device image / filesystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2024-06-07T12:23:58Z",
+            "owner": "RabbitHoleEscapeR1",
+            "repo": "device_rabbit_r1",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MS35774 Info",
+          "description": "Stepper motor driver details for the ms35774 (r1's camera motor).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-13T15:49:56Z",
+            "owner": "CORN-R1",
+            "repo": "ms35774",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Reference Material"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "News & Articles"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:23.770Z",
+    "original_repository": "sayhiben/awesome-rabbit-r1",
+    "original_repository_sha": "d1aec08eb03c7e0823d7369247a7fd2684aa484b",
+    "enhanced_repository": "enhansome/enhansome-rabbit-r1",
+    "enhanced_repository_description": null,
+    "title": "Awesome Rabbit R1 with stars"
+  }
+}
