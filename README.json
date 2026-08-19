@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 804042599,
             "language": "Smali",
             "last_commit": "2024-07-18T02:12:12Z",
             "owner": "Pinball3D",
             "repo": "Rabbit-R1",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 844119556,
             "language": "JavaScript",
             "last_commit": "2024-11-28T15:30:52Z",
             "owner": "meowstercatel",
@@ -35,7 +37,7 @@
       "title": "Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 844174450,
             "language": "Go",
             "last_commit": "2024-10-04T14:34:39Z",
             "owner": "KibbeWater",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 844173843,
             "language": "Go",
             "last_commit": "2024-08-30T19:15:31Z",
             "owner": "KibbeWater",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 844175711,
             "language": "TypeScript",
             "last_commit": "2024-08-18T15:59:33Z",
             "owner": "KibbeWater",
@@ -83,7 +88,7 @@
       "title": "Servers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 806387994,
             "language": "Python",
             "last_commit": "2025-05-25T14:39:12Z",
             "owner": "LAMatHome",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 794902306,
             "language": "HTML",
             "last_commit": "2024-07-24T17:17:23Z",
             "owner": "annabelsandford",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 805956114,
             "language": "JavaScript",
             "last_commit": "2024-05-26T00:41:03Z",
             "owner": "GikitSRC",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 846223337,
             "language": "TypeScript",
             "last_commit": "2024-08-28T20:19:01Z",
             "owner": "meowstercatel",
@@ -145,7 +154,7 @@
       "title": "Integrations & Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -154,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 797778177,
             "language": "Lua",
             "last_commit": "2024-05-12T04:04:06Z",
             "owner": "Antonoko",
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 815130669,
             "language": "Swift",
             "last_commit": "2024-08-28T20:06:09Z",
             "owner": "KibbeWater",
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795945200,
             "language": "C",
             "last_commit": "2024-05-04T13:22:34Z",
             "owner": "fbiego",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 805867361,
             "language": "JavaScript",
             "last_commit": "2024-05-29T03:09:06Z",
             "owner": "ChainedTears",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 796275116,
             "language": null,
             "last_commit": "2024-05-05T13:29:31Z",
             "owner": "10cl",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 815130738,
             "language": "Swift",
             "last_commit": "2024-08-28T14:21:22Z",
             "owner": "KibbeWater",
@@ -235,7 +250,7 @@
       "title": "R1-Inspired Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -244,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 806071646,
             "language": "Makefile",
             "last_commit": "2024-06-07T12:23:58Z",
             "owner": "RabbitHoleEscapeR1",
@@ -258,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 814735137,
             "language": "C",
             "last_commit": "2024-06-13T15:49:56Z",
             "owner": "CORN-R1",
@@ -267,16 +284,12 @@
         }
       ],
       "title": "Reference Material"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "News & Articles"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:09:12.720Z",
+    "last_updated": "2026-08-19T12:47:03.998Z",
     "original_repository": "sayhiben/awesome-rabbit-r1",
+    "original_repository_id": 821623565,
     "original_repository_sha": "d1aec08eb03c7e0823d7369247a7fd2684aa484b",
     "enhanced_repository": "enhansome/enhansome-rabbit-r1",
     "enhanced_repository_description": null,

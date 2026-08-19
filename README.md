@@ -34,7 +34,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ## Clients
 
-* [Rabbit R1 Launcher](https://github.com/Pinball3D/Rabbit-R1) ⭐ 69 | 🐛 4 | 🌐 Smali | 📅 2024-07-18 - An effort to adapt the Rabbit R1 Launcher for use across any Android device.
+* [Rabbit R1 Launcher](https://github.com/Pinball3D/Rabbit-R1) ⭐ 70 | 🐛 4 | 🌐 Smali | 📅 2024-07-18 - An effort to adapt the Rabbit R1 Launcher for use across any Android device.
 * [r1 apk patcher](https://github.com/meowstercatel/r1-apk-patcher) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-28 - Tool to patch a clean rabbit apk into a working one.
 * [rabbitude launcher](https://firmburrow.rabbitu.de/rabbitude/rabbitude-launcher) - A native Android project meant run on the r1 and reimplement the r1's frontend.
 * [r1 emulator](https://firmburrow.rabbitu.de/techblooded/emulator) - AVD setup files and instructions for emulating the Rabbit R1.
@@ -101,4 +101,4 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
