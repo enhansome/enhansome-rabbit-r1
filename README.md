@@ -27,14 +27,14 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ## Jailbreaks
 
-* [r1\_escape](https://github.com/RabbitHoleEscapeR1/r1_escape) ⭐ 429 | 🐛 61 | 🌐 Shell | 📅 2024-08-13 - A jailbreak tool for the Rabbit r1.
+* [r1\_escape](https://github.com/RabbitHoleEscapeR1/r1_escape) ⭐ 429 | 🐛 62 | 🌐 Shell | 📅 2024-08-13 - A jailbreak tool for the Rabbit r1.
   * [r1 escape guide for raspberry pi](https://gist.github.com/mark-wilsons-verizon-discounts/b33bfa40a5ea281ea72f12df039e5d50)
 * [Android on Rabbit r1](https://gist.github.com/veritas06/462844437bd8c5751b85d99c78c68fd8) - Instructions for using r1\_escape to put Android on the r1.
 * [retr0id's r1 jailbreak](https://retr0.id/stuff/r1_jailbreak_next/) - Web-based / web-usb jailbreak. WIP but testable, join rabbitude discord for support.
 
 ## Clients
 
-* [Rabbit R1 Launcher](https://github.com/Pinball3D/Rabbit-R1) ⭐ 70 | 🐛 4 | 🌐 Smali | 📅 2024-07-18 - An effort to adapt the Rabbit R1 Launcher for use across any Android device.
+* [Rabbit R1 Launcher](https://github.com/Pinball3D/Rabbit-R1) ⭐ 71 | 🐛 4 | 🌐 Smali | 📅 2024-07-18 - An effort to adapt the Rabbit R1 Launcher for use across any Android device.
 * [r1 apk patcher](https://github.com/meowstercatel/r1-apk-patcher) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-28 - Tool to patch a clean rabbit apk into a working one.
 * [rabbitude launcher](https://firmburrow.rabbitu.de/rabbitude/rabbitude-launcher) - A native Android project meant run on the r1 and reimplement the r1's frontend.
 * [r1 emulator](https://firmburrow.rabbitu.de/techblooded/emulator) - AVD setup files and instructions for emulating the Rabbit R1.
@@ -101,4 +101,4 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
