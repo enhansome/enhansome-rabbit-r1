@@ -183,7 +183,7 @@
             "last_commit": "2024-08-28T20:06:09Z",
             "owner": "KibbeWater",
             "repo": "Rabbit",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2024-06-07T12:23:58Z",
             "owner": "RabbitHoleEscapeR1",
             "repo": "device_rabbit_r1",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -287,7 +287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:12:48.332Z",
+    "last_updated": "2026-08-21T23:10:16.110Z",
     "original_repository": "sayhiben/awesome-rabbit-r1",
     "original_repository_id": 821623565,
     "original_repository_sha": "d1aec08eb03c7e0823d7369247a7fd2684aa484b",

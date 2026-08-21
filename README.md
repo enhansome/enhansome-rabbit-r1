@@ -57,7 +57,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 ## R1-Inspired Projects
 
 * [Puppy](https://github.com/Antonoko/playdate-puppy-llm) ⭐ 57 | 🐛 2 | 🌐 Lua | 📅 2024-05-12 - An LLM project using ChatGPT on the PlayDate using the r1's aesthetic.
-* [KibbeWater/Rabbit](https://github.com/KibbeWater/Rabbit) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2024-08-28 - iOS App meant to emulate the Rabbit R1 software experience.
+* [KibbeWater/Rabbit](https://github.com/KibbeWater/Rabbit) ⭐ 17 | 🐛 0 | 🌐 Swift | 📅 2024-08-28 - iOS App meant to emulate the Rabbit R1 software experience.
 * [rabbit esp32](https://github.com/fbiego/rabbit-esp32) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2024-05-04 - A demo UI project for the WT32 SC01 Plus board inspired by Rabbit R1.
 * [Rabbitt](https://github.com/GikitSRC/rabbitt) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2024-05-29 - A Small Action Model; named after Rabbit's Large Action Model that can take actions on websites on your behalf.
 * [AgentOS](https://github.com/10cl/agentos) ⭐ 15 | 🐛 0 | 📅 2024-05-05 - An attempt to replicate r1's features natively on Android without the need for a remote backend.
@@ -65,7 +65,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ## Reference Material
 
-* [GSI tree](https://github.com/RabbitHoleEscapeR1/device_rabbit_r1) ⭐ 9 | 🐛 0 | 🌐 Makefile | 📅 2024-06-07 - A view of the Rabbit r1's device image / filesystem.
+* [GSI tree](https://github.com/RabbitHoleEscapeR1/device_rabbit_r1) ⭐ 10 | 🐛 0 | 🌐 Makefile | 📅 2024-06-07 - A view of the Rabbit r1's device image / filesystem.
 * [MS35774 Info](https://github.com/CORN-R1/ms35774) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2024-06-13 - Stepper motor driver details for the ms35774 (r1's camera motor).
 * [r1 api info](https://gist.github.com/DavidBuchanan314/aafce6ba7fc49b19206bd2ad357e47fa) - GitHub Gist with auth and endpoint details about the Rabbit API.
 * [Unofficial r1 APK changelog](https://gist.github.com/DavidBuchanan314/b071223bdae43ec309d996f176992d7c) - A collection of unofficial Changelog notes for each APK released for the r1.
@@ -101,4 +101,4 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
