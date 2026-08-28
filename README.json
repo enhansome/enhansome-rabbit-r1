@@ -16,7 +16,8 @@
             "owner": "Pinball3D",
             "repo": "Rabbit-R1",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "meowstercatel",
             "repo": "r1-apk-patcher",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         }
       ],
       "title": "Clients"
@@ -52,7 +54,8 @@
             "owner": "KibbeWater",
             "repo": "rabbitude-backend",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "KibbeWater",
             "repo": "rabbitserver-go",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "KibbeWater",
             "repo": "rabbitude-hole",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         }
       ],
       "title": "Servers"
@@ -103,7 +108,8 @@
             "owner": "LAMatHome",
             "repo": "LAMatHome",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "annabelsandford",
             "repo": "rabbit-r1-imeigen",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "GikitSRC",
             "repo": "rabbitt_integration",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "meowstercatel",
             "repo": "rabbithole-api",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         }
       ],
       "title": "Integrations & Utilities"
@@ -169,7 +178,8 @@
             "owner": "Antonoko",
             "repo": "playdate-puppy-llm",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "KibbeWater",
             "repo": "Rabbit",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "fbiego",
             "repo": "rabbit-esp32",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "ChainedTears",
             "repo": "rabbitt",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "10cl",
             "repo": "agentos",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "KibbeWater",
             "repo": "RabbitKit",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         }
       ],
       "title": "R1-Inspired Projects"
@@ -265,7 +280,8 @@
             "owner": "RabbitHoleEscapeR1",
             "repo": "device_rabbit_r1",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         },
         {
           "node_type": "item",
@@ -280,14 +296,15 @@
             "owner": "CORN-R1",
             "repo": "ms35774",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T06:23:23.718Z"
         }
       ],
       "title": "Reference Material"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:47.038Z",
+    "last_updated": "2026-08-28T06:23:23.718Z",
     "original_repository_info": {
       "archived": false,
       "id": 821623565,
