@@ -27,7 +27,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ## Jailbreaks
 
-* [r1\_escape](https://github.com/RabbitHoleEscapeR1/r1_escape) ⭐ 429 | 🐛 62 | 🌐 Shell | 📅 2024-08-13 - A jailbreak tool for the Rabbit r1.
+* [r1\_escape](https://github.com/RabbitHoleEscapeR1/r1_escape) ⭐ 430 | 🐛 62 | 🌐 Shell | 📅 2024-08-13 - A jailbreak tool for the Rabbit r1.
   * [r1 escape guide for raspberry pi](https://gist.github.com/mark-wilsons-verizon-discounts/b33bfa40a5ea281ea72f12df039e5d50)
 * [Android on Rabbit r1](https://gist.github.com/veritas06/462844437bd8c5751b85d99c78c68fd8) - Instructions for using r1\_escape to put Android on the r1.
 * [retr0id's r1 jailbreak](https://retr0.id/stuff/r1_jailbreak_next/) - Web-based / web-usb jailbreak. WIP but testable, join rabbitude discord for support.
@@ -101,4 +101,4 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

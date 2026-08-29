@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rabbit R1 Reverse Engineering",
+            "homepage": null,
             "id": 804042599,
             "language": "Smali",
+            "license": "MIT",
             "last_commit": "2024-07-18T02:12:12Z",
+            "open_issues": 4,
             "owner": "Pinball3D",
             "repo": "Rabbit-R1",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tool to patch a clean rabbit r1 into a working one",
+            "homepage": null,
             "id": 844119556,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-28T15:30:52Z",
+            "open_issues": 0,
             "owner": "meowstercatel",
             "repo": "r1-apk-patcher",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         }
@@ -48,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 844174450,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-04T14:34:39Z",
+            "open_issues": 0,
             "owner": "KibbeWater",
             "repo": "rabbitude-backend",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -64,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 844173843,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-08-30T19:15:31Z",
+            "open_issues": 0,
             "owner": "KibbeWater",
             "repo": "rabbitserver-go",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -80,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 844175711,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-18T15:59:33Z",
+            "open_issues": 0,
             "owner": "KibbeWater",
             "repo": "rabbitude-hole",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         }
@@ -102,12 +127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐰 Make your rabbit hop higher!",
+            "homepage": null,
             "id": 806387994,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-25T14:39:12Z",
+            "open_issues": 7,
             "owner": "LAMatHome",
             "repo": "LAMatHome",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -118,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Javascript-based tool to generate and validate IMEI numbers for Rabbit R1 devices.",
+            "homepage": null,
             "id": 794902306,
             "language": "HTML",
+            "license": "AGPL-3.0",
             "last_commit": "2024-07-24T17:17:23Z",
+            "open_issues": 1,
             "owner": "annabelsandford",
             "repo": "rabbit-r1-imeigen",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -134,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rabbithole Integration - Allows you to use your R1's note saving feature to control other things, like Discord and the Rabbitt LAM",
+            "homepage": null,
             "id": 805956114,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-05-26T00:41:03Z",
+            "open_issues": 0,
             "owner": "GikitSRC",
             "repo": "rabbitt_integration",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -150,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An API client for rabbit r1's rabbithole",
+            "homepage": null,
             "id": 846223337,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-28T20:19:01Z",
+            "open_issues": 0,
             "owner": "meowstercatel",
             "repo": "rabbithole-api",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         }
@@ -172,12 +217,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LLM interface that pays homage to rabbit r1 on Playdate.",
+            "homepage": null,
             "id": 797778177,
             "language": "Lua",
+            "license": "Unlicense",
             "last_commit": "2024-05-12T04:04:06Z",
+            "open_issues": 2,
             "owner": "Antonoko",
             "repo": "playdate-puppy-llm",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "llm",
+              "playdate"
+            ]
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -188,12 +241,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS App utilizing the RabbitKit Library to emulate the Rabbit R1 software experience",
+            "homepage": null,
             "id": 815130669,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-08-28T20:06:09Z",
+            "open_issues": 0,
             "owner": "KibbeWater",
             "repo": "Rabbit",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -204,12 +262,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demo UI project for the WT32 SC01 Plus board inspired by Rabbit R1",
+            "homepage": null,
             "id": 795945200,
             "language": "C",
+            "license": null,
             "last_commit": "2024-05-04T13:22:34Z",
+            "open_issues": 0,
             "owner": "fbiego",
             "repo": "rabbit-esp32",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -220,12 +283,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Small Action Model; named after Rabbit's Large Action Model that can take actions on websites on your behalf.",
+            "homepage": null,
             "id": 805867361,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-05-29T03:09:06Z",
+            "open_issues": 1,
             "owner": "ChainedTears",
             "repo": "rabbitt",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -236,12 +304,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Like rabbit r1, AgentOS opens the door to a new era of AI technology. It's your personal AI companion, always ready to assist you with natural language commands. Say goodbye to juggling multiple apps.",
+            "homepage": "https://agentos.toscl.com/",
             "id": 796275116,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-05T13:29:31Z",
+            "open_issues": 0,
             "owner": "10cl",
             "repo": "agentos",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "agent",
+              "agentos",
+              "ai",
+              "chatgpt",
+              "promptflow",
+              "rabbit-r1"
+            ]
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -252,12 +332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Communication Library for the RabbitServer-GO project",
+            "homepage": null,
             "id": 815130738,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-08-28T14:21:22Z",
+            "open_issues": 0,
             "owner": "KibbeWater",
             "repo": "RabbitKit",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         }
@@ -274,12 +359,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GSI tree for the Rabbit R1",
+            "homepage": null,
             "id": 806071646,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2024-06-07T12:23:58Z",
+            "open_issues": 0,
             "owner": "RabbitHoleEscapeR1",
             "repo": "device_rabbit_r1",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "aosp",
+              "gsi",
+              "mediatek",
+              "rabbit",
+              "rabbitr1"
+            ]
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         },
@@ -290,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MS35774 stepper motor driver IC reimplementation for CORN R1",
+            "homepage": null,
             "id": 814735137,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-06-13T15:49:56Z",
+            "open_issues": 0,
             "owner": "CORN-R1",
             "repo": "ms35774",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
         }
@@ -304,15 +405,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:23:23.718Z",
+    "last_updated": "2026-08-29T03:55:32.820Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of resources for hacking on the Rabbit r1",
+      "homepage": null,
       "id": 821623565,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-06-22T17:33:01Z",
+      "open_issues": 3,
       "owner": "sayhiben",
       "repo": "awesome-rabbit-r1",
-      "stars": 171
+      "stars": 171,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "d1aec08eb03c7e0823d7369247a7fd2684aa484b",
     "enhanced_repository": "enhansome/enhansome-rabbit-r1",
