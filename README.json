@@ -136,7 +136,7 @@
             "open_issues": 7,
             "owner": "LAMatHome",
             "repo": "LAMatHome",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
@@ -223,7 +223,7 @@
             "language": "Lua",
             "license": "Unlicense",
             "last_commit": "2024-05-12T04:04:06Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "Antonoko",
             "repo": "playdate-puppy-llm",
             "stars": 57,
@@ -405,7 +405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:27:25.124Z",
+    "last_updated": "2026-09-02T00:35:34.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for hacking on the Rabbit r1",

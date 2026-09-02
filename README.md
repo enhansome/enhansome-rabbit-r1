@@ -48,7 +48,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ## Integrations & Utilities
 
-* [LAMatHome](https://github.com/dot-Justin/LAMatHome) ⭐ 66 | 🐛 7 | 🌐 Python | 📅 2025-05-25 - A self-hosted integration suite that reads notes from the Rabbithole to add functionality to the r1.
+* [LAMatHome](https://github.com/dot-Justin/LAMatHome) ⭐ 67 | 🐛 7 | 🌐 Python | 📅 2025-05-25 - A self-hosted integration suite that reads notes from the Rabbithole to add functionality to the r1.
 * [Rabbit R1 IMEI Generator](https://github.com/annabelsandford/rabbit-r1-imeigen) ⭐ 18 | 🐛 1 | 🌐 HTML | 📅 2024-07-24 - a JS-based tool designed to generate and validate IMEI numbers for Rabbit R1 devices ([Live Demo](https://annabelsandford.github.io/rabbit-r1-imeigen/imei_check_v1.html)).
 * [Rabbitt Integration](https://github.com/GikitSRC/rabbitt_integration) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2024-05-26 - Use your r1's note saving feature to control things like Discord and the Rabbitt LAM.
 * [rabbithole-api](https://github.com/meowstercatel/rabbithole-api) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-28 - An API client for rabbit r1's rabbithole.
@@ -56,7 +56,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ## R1-Inspired Projects
 
-* [Puppy](https://github.com/Antonoko/playdate-puppy-llm) ⭐ 57 | 🐛 2 | 🌐 Lua | 📅 2024-05-12 - An LLM project using ChatGPT on the PlayDate using the r1's aesthetic.
+* [Puppy](https://github.com/Antonoko/playdate-puppy-llm) ⭐ 57 | 🐛 1 | 🌐 Lua | 📅 2024-05-12 - An LLM project using ChatGPT on the PlayDate using the r1's aesthetic.
 * [KibbeWater/Rabbit](https://github.com/KibbeWater/Rabbit) ⭐ 17 | 🐛 0 | 🌐 Swift | 📅 2024-08-28 - iOS App meant to emulate the Rabbit R1 software experience.
 * [rabbit esp32](https://github.com/fbiego/rabbit-esp32) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2024-05-04 - A demo UI project for the WT32 SC01 Plus board inspired by Rabbit R1.
 * [Rabbitt](https://github.com/GikitSRC/rabbitt) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2024-05-29 - A Small Action Model; named after Rabbit's Large Action Model that can take actions on websites on your behalf.
@@ -101,4 +101,4 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
