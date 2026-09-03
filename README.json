@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "Pinball3D",
             "repo": "Rabbit-R1",
-            "stars": 73,
+            "stars": 74,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
@@ -223,7 +223,7 @@
             "language": "Lua",
             "license": "Unlicense",
             "last_commit": "2024-05-12T04:04:06Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "Antonoko",
             "repo": "playdate-puppy-llm",
             "stars": 57,
@@ -405,7 +405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:35:34.395Z",
+    "last_updated": "2026-09-03T00:45:59.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for hacking on the Rabbit r1",
@@ -413,8 +413,8 @@
       "id": 821623565,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-06-22T17:33:01Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-02T22:56:47Z",
+      "open_issues": 2,
       "owner": "sayhiben",
       "repo": "awesome-rabbit-r1",
       "stars": 171,
@@ -423,7 +423,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "d1aec08eb03c7e0823d7369247a7fd2684aa484b",
+    "original_repository_sha": "e712fa3462518a95965969ca56a6f4fe59acdc67",
     "enhanced_repository": "enhansome/enhansome-rabbit-r1",
     "enhanced_repository_description": null,
     "title": "Awesome Rabbit R1 with stars"

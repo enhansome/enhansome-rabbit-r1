@@ -34,7 +34,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ## Clients
 
-* [Rabbit R1 Launcher](https://github.com/Pinball3D/Rabbit-R1) ⭐ 73 | 🐛 4 | 🌐 Smali | 📅 2024-07-18 - An effort to adapt the Rabbit R1 Launcher for use across any Android device.
+* [Rabbit R1 Launcher](https://github.com/Pinball3D/Rabbit-R1) ⭐ 74 | 🐛 4 | 🌐 Smali | 📅 2024-07-18 - An effort to adapt the Rabbit R1 Launcher for use across any Android device.
 * [r1 apk patcher](https://github.com/meowstercatel/r1-apk-patcher) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-28 - Tool to patch a clean rabbit apk into a working one.
 * [rabbitude launcher](https://firmburrow.rabbitu.de/rabbitude/rabbitude-launcher) - A native Android project meant run on the r1 and reimplement the r1's frontend.
 * [r1 emulator](https://firmburrow.rabbitu.de/techblooded/emulator) - AVD setup files and instructions for emulating the Rabbit R1.
@@ -56,7 +56,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ## R1-Inspired Projects
 
-* [Puppy](https://github.com/Antonoko/playdate-puppy-llm) ⭐ 57 | 🐛 1 | 🌐 Lua | 📅 2024-05-12 - An LLM project using ChatGPT on the PlayDate using the r1's aesthetic.
+* [Puppy](https://github.com/Antonoko/playdate-puppy-llm) ⭐ 57 | 🐛 2 | 🌐 Lua | 📅 2024-05-12 - An LLM project using ChatGPT on the PlayDate using the r1's aesthetic.
 * [KibbeWater/Rabbit](https://github.com/KibbeWater/Rabbit) ⭐ 17 | 🐛 0 | 🌐 Swift | 📅 2024-08-28 - iOS App meant to emulate the Rabbit R1 software experience.
 * [rabbit esp32](https://github.com/fbiego/rabbit-esp32) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2024-05-04 - A demo UI project for the WT32 SC01 Plus board inspired by Rabbit R1.
 * [Rabbitt](https://github.com/GikitSRC/rabbitt) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2024-05-29 - A Small Action Model; named after Rabbit's Large Action Model that can take actions on websites on your behalf.
@@ -71,6 +71,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 * [Unofficial r1 APK changelog](https://gist.github.com/DavidBuchanan314/b071223bdae43ec309d996f176992d7c) - A collection of unofficial Changelog notes for each APK released for the r1.
 * [OTA API notes](https://gist.github.com/DavidBuchanan314/37ea2fb5ed15cc063eea82d8789b42b0) - Notes about the r1's OTA API.
 * [zShield Notes](https://gist.github.com/DavidBuchanan314/ceb3637b7a6877dd7f64950c84228043) - Notes about the obfuscation tool Rabbit uses to package their APKs.
+* [R1 Creation format notes](https://gist.github.com/simongonzalezdc/42c9469b4b4251e2f4f1ac063256ce68) - Notes on the Creation install QR JSON envelope and the Flutter WebView mic-capture recipe.
 
 ## News & Articles
 
@@ -101,4 +102,4 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
