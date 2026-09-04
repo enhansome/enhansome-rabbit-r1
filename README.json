@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "Pinball3D",
             "repo": "Rabbit-R1",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
@@ -405,7 +405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:45:59.062Z",
+    "last_updated": "2026-09-04T00:28:32.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for hacking on the Rabbit r1",
