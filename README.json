@@ -405,7 +405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:37:15.145Z",
+    "last_updated": "2026-10-02T01:50:28.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for hacking on the Rabbit r1",
@@ -417,7 +417,7 @@
       "open_issues": 2,
       "owner": "sayhiben",
       "repo": "awesome-rabbit-r1",
-      "stars": 172,
+      "stars": 173,
       "topics": [
         "awesome",
         "awesome-list"
