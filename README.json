@@ -313,7 +313,7 @@
             "open_issues": 0,
             "owner": "10cl",
             "repo": "agentos",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "agent",
               "agentos",
@@ -405,7 +405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:51:09.849Z",
+    "last_updated": "2026-10-13T03:14:07.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for hacking on the Rabbit r1",
