@@ -34,7 +34,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ## Clients
 
-* [Rabbit R1 Launcher](https://github.com/Pinball3D/Rabbit-R1) ⭐ 77 | 🐛 4 | 🌐 Smali | 📅 2024-07-18 - An effort to adapt the Rabbit R1 Launcher for use across any Android device.
+* [Rabbit R1 Launcher](https://github.com/Pinball3D/Rabbit-R1) ⭐ 78 | 🐛 4 | 🌐 Smali | 📅 2024-07-18 - An effort to adapt the Rabbit R1 Launcher for use across any Android device.
 * [r1 apk patcher](https://github.com/meowstercatel/r1-apk-patcher) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-28 - Tool to patch a clean rabbit apk into a working one.
 * [rabbitude launcher](https://firmburrow.rabbitu.de/rabbitude/rabbitude-launcher) - A native Android project meant run on the r1 and reimplement the r1's frontend.
 * [r1 emulator](https://firmburrow.rabbitu.de/techblooded/emulator) - AVD setup files and instructions for emulating the Rabbit R1.
@@ -43,7 +43,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 ## Servers
 
 * [rabbitude-backend](https://github.com/KibbeWater/rabbitude-backend) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2024-10-04 - A Go-based backend meant to reimplement the r1's backend and API endpoints.
-* [rabbitserver-go](https://github.com/KibbeWater/rabbitserver-go) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2024-08-30 - A simple WebSocket wrapper for the RabbitHole API.
+* [rabbitserver-go](https://github.com/KibbeWater/rabbitserver-go) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2024-08-30 - A simple WebSocket wrapper for the RabbitHole API.
 * [rabbitude-hole](https://github.com/KibbeWater/rabbitude-hole) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-18 - Rabbithole replacement for the rabbitude launcher.
 
 ## Integrations & Utilities
@@ -102,4 +102,4 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
