@@ -199,7 +199,7 @@
             "open_issues": 0,
             "owner": "meowstercatel",
             "repo": "rabbithole-api",
-            "stars": 3,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:23.718Z"
@@ -405,7 +405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:33:24.819Z",
+    "last_updated": "2026-10-20T01:18:46.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for hacking on the Rabbit r1",

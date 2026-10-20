@@ -51,7 +51,7 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 * [LAMatHome](https://github.com/dot-Justin/LAMatHome) ⭐ 67 | 🐛 7 | 🌐 Python | 📅 2025-05-25 - A self-hosted integration suite that reads notes from the Rabbithole to add functionality to the r1.
 * [Rabbit R1 IMEI Generator](https://github.com/annabelsandford/rabbit-r1-imeigen) ⭐ 18 | 🐛 1 | 🌐 HTML | 📅 2024-07-24 - a JS-based tool designed to generate and validate IMEI numbers for Rabbit R1 devices ([Live Demo](https://annabelsandford.github.io/rabbit-r1-imeigen/imei_check_v1.html)).
 * [Rabbitt Integration](https://github.com/GikitSRC/rabbitt_integration) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2024-05-26 - Use your r1's note saving feature to control things like Discord and the Rabbitt LAM.
-* [rabbithole-api](https://github.com/meowstercatel/rabbithole-api) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-28 - An API client for rabbit r1's rabbithole.
+* [rabbithole-api](https://github.com/meowstercatel/rabbithole-api) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-28 - An API client for rabbit r1's rabbithole.
 * [OTA Tool](https://firmburrow.rabbitu.de/emilyls/ota-tool) - A small utility for manually applying OTA updates to partition images.
 
 ## R1-Inspired Projects
@@ -102,4 +102,4 @@ A list of resources (and related projects) for hacking on the Rabbit r1
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
